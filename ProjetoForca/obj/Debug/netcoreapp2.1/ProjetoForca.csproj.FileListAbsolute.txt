@@ -1,0 +1,11 @@
+D:\Code\Praticas\Forca\ProjetoForca\bin\Debug\netcoreapp2.1\ProjetoForca.deps.json
+D:\Code\Praticas\Forca\ProjetoForca\bin\Debug\netcoreapp2.1\ProjetoForca.runtimeconfig.json
+D:\Code\Praticas\Forca\ProjetoForca\bin\Debug\netcoreapp2.1\ProjetoForca.runtimeconfig.dev.json
+D:\Code\Praticas\Forca\ProjetoForca\bin\Debug\netcoreapp2.1\ProjetoForca.dll
+D:\Code\Praticas\Forca\ProjetoForca\bin\Debug\netcoreapp2.1\ProjetoForca.pdb
+D:\Code\Praticas\Forca\ProjetoForca\obj\Debug\netcoreapp2.1\ProjetoForca.csprojAssemblyReference.cache
+D:\Code\Praticas\Forca\ProjetoForca\obj\Debug\netcoreapp2.1\ProjetoForca.csproj.CoreCompileInputs.cache
+D:\Code\Praticas\Forca\ProjetoForca\obj\Debug\netcoreapp2.1\ProjetoForca.AssemblyInfoInputs.cache
+D:\Code\Praticas\Forca\ProjetoForca\obj\Debug\netcoreapp2.1\ProjetoForca.AssemblyInfo.cs
+D:\Code\Praticas\Forca\ProjetoForca\obj\Debug\netcoreapp2.1\ProjetoForca.dll
+D:\Code\Praticas\Forca\ProjetoForca\obj\Debug\netcoreapp2.1\ProjetoForca.pdb
